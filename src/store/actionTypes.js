@@ -1,0 +1,10 @@
+const ActionTypes = {
+    MOVIE_LOADING : 'MOVIE_LOADING',
+    MOVIE_SUCCESS : 'MOVIE_SUCCESS',
+    MOVIE_ERROR : 'MOVIE_ERROR',
+    GENRE_LOADING : 'GENRE_LOADING',
+    GENRE_SUCCESS : 'GENRE_SUCCESS',
+    GENRE_ERROR : 'GENRE_ERROR'
+}
+
+export default ActionTypes;
